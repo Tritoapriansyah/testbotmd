@@ -33,7 +33,8 @@
     "pino": "^7.0.5",
     "request": "^2.88.2",
     "util": "^0.12.4",
-    "yargs": "^17.2.1"
+    "yargs": "^17.2.1",
+    "xfarr-api"; "^1.0.3"
   },
   "directories": {
     "lib": "lib"
