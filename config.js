@@ -23,13 +23,13 @@ global.APIKeys = {
 
 
 // Other
-global.fortex = '✗✗✗ Rion'
-global.instagram = 'https://www.instagram.com/muhamad_rion27'
-global.youtube = 'https://m.youtube.com/channel/UCc62LJB6TIUOuTNqah04lSg'
-global.owner = ['6285695451209','62856954512091']
-global.packname = 'BadbotMD'
-global.author = '✗✗✗ Rion \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'rionnnn'
+global.fortex = 'Trito'
+global.instagram = 'next time'
+global.youtube = 'gk punya'
+global.owner = ['6285888158313','6287771388699']
+global.packname = 'LolitaotMD'
+global.author = 'Trito \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
+global.sessionName = 'sesi'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
